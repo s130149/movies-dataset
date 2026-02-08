@@ -1,0 +1,172 @@
+[
+  {
+    "id": "MOV-001",
+    "title": "Arrival",
+    "description": "A linguist is recruited to communicate with alien visitors whose arrival threatens global stability.",
+    "duration": 116,
+    "isReleased": true,
+    "releaseDate": "2016-11-11",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/movies/arrival.jpg",
+    "genre": "Sci-Fi",
+    "actors": ["Amy Adams", "Jeremy Renner"],
+    "director": {
+      "id": "DIR-001",
+      "name": "Denis Villeneuve",
+      "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/directors/villeneuve.jpg",
+      "isActive": true
+    }
+  },
+  {
+    "id": "MOV-002",
+    "title": "Dune",
+    "description": "A young nobleman becomes embroiled in a conflict over the universe's most valuable substance.",
+    "duration": 155,
+    "isReleased": true,
+    "releaseDate": "2021-10-22",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/movies/dune.jpg",
+    "genre": "Sci-Fi",
+    "actors": ["Timothée Chalamet", "Zendaya"],
+    "director": {
+      "id": "DIR-001",
+      "name": "Denis Villeneuve",
+      "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/directors/villeneuve.jpg",
+      "isActive": true
+    }
+  },
+  {
+    "id": "MOV-003",
+    "title": "Inception",
+    "description": "A skilled thief enters dreams to steal secrets and plant ideas deep within the subconscious.",
+    "duration": 148,
+    "isReleased": true,
+    "releaseDate": "2010-07-16",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/movies/inception.jpg",
+    "genre": "Sci-Fi",
+    "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt"],
+    "director": {
+      "id": "DIR-002",
+      "name": "Christopher Nolan",
+      "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/directors/nolan.jpg",
+      "isActive": true
+    }
+  },
+  {
+    "id": "MOV-004",
+    "title": "Interstellar",
+    "description": "A group of explorers travel through a wormhole in space to ensure humanity's survival.",
+    "duration": 169,
+    "isReleased": true,
+    "releaseDate": "2014-11-07",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/movies/interstellar.jpg",
+    "genre": "Sci-Fi",
+    "actors": ["Matthew McConaughey", "Anne Hathaway"],
+    "director": {
+      "id": "DIR-002",
+      "name": "Christopher Nolan",
+      "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/directors/nolan.jpg",
+      "isActive": true
+    }
+  },
+  {
+    "id": "MOV-005",
+    "title": "Lady Bird",
+    "description": "A coming-of-age story of a high school senior navigating family, love, and identity.",
+    "duration": 94,
+    "isReleased": true,
+    "releaseDate": "2017-11-03",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/movies/ladybird.jpg",
+    "genre": "Drama",
+    "actors": ["Saoirse Ronan", "Laurie Metcalf"],
+    "director": {
+      "id": "DIR-003",
+      "name": "Greta Gerwig",
+      "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/directors/gerwig.jpg",
+      "isActive": true
+    }
+  },
+  {
+    "id": "MOV-006",
+    "title": "Little Women",
+    "description": "Four sisters navigate love, ambition, and family during the American Civil War.",
+    "duration": 135,
+    "isReleased": true,
+    "releaseDate": "2019-12-25",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/movies/littlewomen.jpg",
+    "genre": "Drama",
+    "actors": ["Saoirse Ronan", "Florence Pugh"],
+    "director": {
+      "id": "DIR-003",
+      "name": "Greta Gerwig",
+      "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/directors/gerwig.jpg",
+      "isActive": true
+    }
+  },
+  {
+    "id": "MOV-007",
+    "title": "Parasite",
+    "description": "A poor family schemes to infiltrate a wealthy household with unexpected consequences.",
+    "duration": 132,
+    "isReleased": true,
+    "releaseDate": "2019-05-30",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/movies/parasite.jpg",
+    "genre": "Thriller",
+    "actors": ["Song Kang-ho", "Lee Sun-kyun"],
+    "director": {
+      "id": "DIR-004",
+      "name": "Bong Joon-ho",
+      "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/directors/bong.jpg",
+      "isActive": true
+    }
+  },
+  {
+    "id": "MOV-008",
+    "title": "Snowpiercer",
+    "description": "The last survivors of Earth live aboard a perpetually moving train divided by class.",
+    "duration": 126,
+    "isReleased": true,
+    "releaseDate": "2013-08-01",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/movies/snowpiercer.jpg",
+    "genre": "Sci-Fi",
+    "actors": ["Chris Evans", "Tilda Swinton"],
+    "director": {
+      "id": "DIR-004",
+      "name": "Bong Joon-ho",
+      "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/directors/bong.jpg",
+      "isActive": true
+    }
+  },
+  {
+    "id": "MOV-009",
+    "title": "Blade Runner 2049",
+    "description": "A new blade runner uncovers a secret that threatens the balance of society.",
+    "duration": 164,
+    "isReleased": true,
+    "releaseDate": "2017-10-06",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/movies/bladerunner2049.jpg",
+    "genre": "Sci-Fi",
+    "actors": ["Ryan Gosling", "Harrison Ford"],
+    "director": {
+      "id": "DIR-001",
+      "name": "Denis Villeneuve",
+      "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/directors/villeneuve.jpg",
+      "isActive": true
+    }
+  },
+  {
+    "id": "MOV-010",
+    "title": "Oppenheimer",
+    "description": "The story of the scientist behind the atomic bomb and the moral weight of his creation.",
+    "duration": 180,
+    "isReleased": true,
+    "releaseDate": "2023-07-21",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/movies/oppenheimer.jpg",
+    "genre": "Drama",
+    "actors": ["Cillian Murphy", "Emily Blunt"],
+    "director": {
+      "id": "DIR-002",
+      "name": "Christopher Nolan",
+      "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/directors/nolan.jpg",
+      "isActive": true
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "DIR-001",
+    "name": "Denis Villeneuve",
+    "description": "A Canadian film director known for his visually striking and emotionally intense science fiction films.",
+    "age": 57,
+    "isActive": true,
+    "birthDate": "1967-10-03",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/directors/villeneuve.jpg",
+    "nationality": "Canadian",
+    "knownFor": ["Arrival", "Dune", "Blade Runner 2049"],
+    "awards": 12
+  },
+  {
+    "id": "DIR-002",
+    "name": "Christopher Nolan",
+    "description": "British-American director famous for complex narratives, time manipulation and practical effects.",
+    "age": 54,
+    "isActive": true,
+    "birthDate": "1970-07-30",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/directors/nolan.jpg",
+    "nationality": "British-American",
+    "knownFor": ["Inception", "Interstellar", "The Dark Knight"],
+    "awards": 15
+  },
+  {
+    "id": "DIR-003",
+    "name": "Greta Gerwig",
+    "description": "An American filmmaker known for intimate character-driven stories and modern feminist themes.",
+    "age": 41,
+    "isActive": true,
+    "birthDate": "1983-08-04",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/directors/gerwig.jpg",
+    "nationality": "American",
+    "knownFor": ["Lady Bird", "Little Women", "Barbie"],
+    "awards": 7
+  },
+  {
+    "id": "DIR-004",
+    "name": "Bong Joon-ho",
+    "description": "South Korean director blending social commentary with genre filmmaking.",
+    "age": 55,
+    "isActive": true,
+    "birthDate": "1969-09-14",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/directors/bong.jpg",
+    "nationality": "South Korean",
+    "knownFor": ["Parasite", "Snowpiercer"],
+    "awards": 10
+  }
+]
