@@ -6,7 +6,7 @@
     "age": 57,
     "isActive": true,
     "birthDate": "1967-10-03",
-    "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/directors/villeneuve.jpg",
+    "imageUrl": "https://github.com/s130149/movies-dataset/blob/main/images/directors/denis_villeneuve.webp",
     "nationality": "Canadian",
     "knownFor": ["Arrival", "Dune", "Blade Runner 2049"],
     "awards": 12
@@ -18,7 +18,7 @@
     "age": 54,
     "isActive": true,
     "birthDate": "1970-07-30",
-    "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/directors/nolan.jpg",
+    "imageUrl": "https://github.com/s130149/movies-dataset/blob/main/images/directors/christopher_nolan.webp",
     "nationality": "British-American",
     "knownFor": ["Inception", "Interstellar", "The Dark Knight"],
     "awards": 15
@@ -30,7 +30,7 @@
     "age": 41,
     "isActive": true,
     "birthDate": "1983-08-04",
-    "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/directors/gerwig.jpg",
+    "imageUrl": "https://github.com/s130149/movies-dataset/blob/main/images/directors/greta_gerwig.webp",
     "nationality": "American",
     "knownFor": ["Lady Bird", "Little Women", "Barbie"],
     "awards": 7
@@ -42,9 +42,10 @@
     "age": 55,
     "isActive": true,
     "birthDate": "1969-09-14",
-    "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/directors/bong.jpg",
+    "imageUrl": "https://github.com/s130149/movies-dataset/blob/main/images/directors/bong_jong_ho.webp",
     "nationality": "South Korean",
     "knownFor": ["Parasite", "Snowpiercer"],
     "awards": 10
   }
 ]
+ 
