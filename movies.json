@@ -6,13 +6,13 @@
     "duration": 116,
     "isReleased": true,
     "releaseDate": "2016-11-11",
-    "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/movies/arrival.jpg",
+    "imageUrl": "https://github.com/s130149/movies-dataset/blob/main/images/movies/arrival.webp",
     "genre": "Sci-Fi",
     "actors": ["Amy Adams", "Jeremy Renner"],
     "director": {
       "id": "DIR-001",
       "name": "Denis Villeneuve",
-      "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/directors/villeneuve.jpg",
+      "imageUrl": "https://github.com/s130149/movies-dataset/blob/main/images/directors/denis_villeneuve.webp",
       "isActive": true
     }
   },
@@ -23,13 +23,13 @@
     "duration": 155,
     "isReleased": true,
     "releaseDate": "2021-10-22",
-    "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/movies/dune.jpg",
+    "imageUrl": "https://github.com/s130149/movies-dataset/blob/main/images/movies/dune.webp",
     "genre": "Sci-Fi",
     "actors": ["Timothée Chalamet", "Zendaya"],
     "director": {
       "id": "DIR-001",
       "name": "Denis Villeneuve",
-      "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/directors/villeneuve.jpg",
+      "imageUrl": "https://github.com/s130149/movies-dataset/blob/main/images/directors/denis_villeneuve.webp",
       "isActive": true
     }
   },
@@ -40,13 +40,13 @@
     "duration": 148,
     "isReleased": true,
     "releaseDate": "2010-07-16",
-    "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/movies/inception.jpg",
+    "imageUrl": "https://github.com/s130149/movies-dataset/blob/main/images/movies/inception.webp",
     "genre": "Sci-Fi",
     "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt"],
     "director": {
       "id": "DIR-002",
       "name": "Christopher Nolan",
-      "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/directors/nolan.jpg",
+      "imageUrl": "https://github.com/s130149/movies-dataset/blob/main/images/directors/christopher_nolan.webp",
       "isActive": true
     }
   },
@@ -57,13 +57,13 @@
     "duration": 169,
     "isReleased": true,
     "releaseDate": "2014-11-07",
-    "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/movies/interstellar.jpg",
+    "imageUrl": "https://github.com/s130149/movies-dataset/blob/main/images/movies/interstellar.webp",
     "genre": "Sci-Fi",
     "actors": ["Matthew McConaughey", "Anne Hathaway"],
     "director": {
       "id": "DIR-002",
       "name": "Christopher Nolan",
-      "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/directors/nolan.jpg",
+      "imageUrl": "https://github.com/s130149/movies-dataset/blob/main/images/directors/christopher_nolan.webp",
       "isActive": true
     }
   },
@@ -74,13 +74,13 @@
     "duration": 94,
     "isReleased": true,
     "releaseDate": "2017-11-03",
-    "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/movies/ladybird.jpg",
+    "imageUrl": "https://github.com/s130149/movies-dataset/blob/main/images/movies/ladybird.webp",
     "genre": "Drama",
     "actors": ["Saoirse Ronan", "Laurie Metcalf"],
     "director": {
       "id": "DIR-003",
       "name": "Greta Gerwig",
-      "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/directors/gerwig.jpg",
+      "imageUrl": "https://github.com/s130149/movies-dataset/blob/main/images/directors/greta_gerwig.webp",
       "isActive": true
     }
   },
@@ -91,13 +91,13 @@
     "duration": 135,
     "isReleased": true,
     "releaseDate": "2019-12-25",
-    "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/movies/littlewomen.jpg",
+    "imageUrl": "https://github.com/s130149/movies-dataset/blob/main/images/movies/littlewomen.webp",
     "genre": "Drama",
     "actors": ["Saoirse Ronan", "Florence Pugh"],
     "director": {
       "id": "DIR-003",
       "name": "Greta Gerwig",
-      "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/directors/gerwig.jpg",
+      "imageUrl": "https://github.com/s130149/movies-dataset/blob/main/images/directors/greta_gerwig.webp",
       "isActive": true
     }
   },
@@ -108,13 +108,13 @@
     "duration": 132,
     "isReleased": true,
     "releaseDate": "2019-05-30",
-    "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/movies/parasite.jpg",
+    "imageUrl": "https://github.com/s130149/movies-dataset/blob/main/images/movies/parasite.webp",
     "genre": "Thriller",
     "actors": ["Song Kang-ho", "Lee Sun-kyun"],
     "director": {
       "id": "DIR-004",
       "name": "Bong Joon-ho",
-      "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/directors/bong.jpg",
+      "imageUrl": "https://github.com/s130149/movies-dataset/blob/main/images/directors/bong_jong_ho.webp",
       "isActive": true
     }
   },
@@ -125,13 +125,13 @@
     "duration": 126,
     "isReleased": true,
     "releaseDate": "2013-08-01",
-    "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/movies/snowpiercer.jpg",
+    "imageUrl": "https://github.com/s130149/movies-dataset/blob/main/images/movies/snowpiercer.webp",
     "genre": "Sci-Fi",
     "actors": ["Chris Evans", "Tilda Swinton"],
     "director": {
       "id": "DIR-004",
       "name": "Bong Joon-ho",
-      "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/directors/bong.jpg",
+      "imageUrl": "https://github.com/s130149/movies-dataset/blob/main/images/directors/bong_jong_ho.webp",
       "isActive": true
     }
   },
@@ -142,13 +142,13 @@
     "duration": 164,
     "isReleased": true,
     "releaseDate": "2017-10-06",
-    "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/movies/bladerunner2049.jpg",
+    "imageUrl": "https://github.com/s130149/movies-dataset/blob/main/images/movies/bladerunner2049.webp",
     "genre": "Sci-Fi",
     "actors": ["Ryan Gosling", "Harrison Ford"],
     "director": {
       "id": "DIR-001",
       "name": "Denis Villeneuve",
-      "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/directors/villeneuve.jpg",
+      "imageUrl": "https://github.com/s130149/movies-dataset/blob/main/images/directors/denis_villeneuve.webp",
       "isActive": true
     }
   },
@@ -159,13 +159,13 @@
     "duration": 180,
     "isReleased": true,
     "releaseDate": "2023-07-21",
-    "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/movies/oppenheimer.jpg",
+    "imageUrl": "https://github.com/s130149/movies-dataset/blob/main/images/movies/oppenheimer.webp",
     "genre": "Drama",
     "actors": ["Cillian Murphy", "Emily Blunt"],
     "director": {
       "id": "DIR-002",
       "name": "Christopher Nolan",
-      "imageUrl": "https://raw.githubusercontent.com/yourusername/movies-directors-api/images/directors/nolan.jpg",
+      "imageUrl": "https://github.com/s130149/movies-dataset/blob/main/images/directors/christopher_nolan.webp",
       "isActive": true
     }
   }
