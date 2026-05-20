@@ -74,7 +74,7 @@
     "duration": 94,
     "isReleased": true,
     "releaseDate": "2017-11-03",
-    "imageUrl": "https://raw.githubusercontent.com/s130149/movies-dataset/refs/heads/main/images/movies/ladybird.webp",
+    "imageUrl": "https://raw.githubusercontent.com/s130149/movies-dataset/refs/heads/main/images/movies/lady_bird.webp",
     "genre": "Drama",
     "actors": ["Saoirse Ronan", "Laurie Metcalf"],
     "director": {
@@ -91,7 +91,7 @@
     "duration": 135,
     "isReleased": true,
     "releaseDate": "2019-12-25",
-    "imageUrl": "https://raw.githubusercontent.com/s130149/movies-dataset/refs/heads/main/images/movies/littlewomen.webp",
+    "imageUrl": "https://raw.githubusercontent.com/s130149/movies-dataset/refs/heads/main/images/movies/little_women.webp",
     "genre": "Drama",
     "actors": ["Saoirse Ronan", "Florence Pugh"],
     "director": {
@@ -142,7 +142,7 @@
     "duration": 164,
     "isReleased": true,
     "releaseDate": "2017-10-06",
-    "imageUrl": "https://raw.githubusercontent.com/s130149/movies-dataset/refs/heads/main/images/movies/bladerunner2049.webp",
+    "imageUrl": "https://raw.githubusercontent.com/s130149/movies-dataset/refs/heads/main/images/movies/blade_runner_2045.webp",
     "genre": "Sci-Fi",
     "actors": ["Ryan Gosling", "Harrison Ford"],
     "director": {
